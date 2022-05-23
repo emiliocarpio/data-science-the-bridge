@@ -1,6 +1,14 @@
 # Resolved exercises / exams
+#exam/
+config.py
 *resolved.ipynb
+<<<<<<< HEAD
 
+=======
+*resolved.py
+0-mathematics-for-ds/
+data-science-349808-9fc5e21fc770.json
+>>>>>>> 75758fe324d4cd9d18c20592d9b4ee96c6ef4ed6
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
